@@ -1,143 +1,477 @@
 [[Pfapack]]
 arch = "aarch64"
-git-tree-sha1 = "78a9222cd737a64ae58933bdd73e28587bef4951"
+git-tree-sha1 = "10a3d91e5f30dba330f9afba8c0d03e4e0fdc9f1"
+julia_version = "1.7.0"
 os = "macos"
 
     [[Pfapack.download]]
-    sha256 = "fdce4f4e3bc980fc771eb504db6ed2bef64527b4a0cadd75e64ad8f04e68a1d4"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "251d6afa923fb67dffaad27ce428f5230a1242644bdd5d44a45a1742bdf00a77"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "aarch64"
-git-tree-sha1 = "48c3b91905f7f491f7dd6fd340e56eca8ba5732a"
+git-tree-sha1 = "c364bd53dca272e78a5b5783b0533c0d82376eef"
+julia_version = "1.8.0"
+os = "macos"
+
+    [[Pfapack.download]]
+    sha256 = "fdfb2eafa4eb2496b639a1578030d56f6eadf1b3ce507670584229abec6bedd5"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "aarch64"
+git-tree-sha1 = "58758b6d0efde9dfad6c9bbd844e919a67dcc9ac"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[Pfapack.download]]
+    sha256 = "cdc015a33218f90ad4aa31e41f2a276159f844dc58c7ded7e4428cc9520ea98e"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "aarch64"
+git-tree-sha1 = "25a284ad36866827e42ec3879a5aa1363b96906c"
+julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "7383c31bf2eea05a4b6d41fc0d7852480363cd1e4ac0ea0be7928e2940be480a"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "941b9f4c38177afbf5d6816f4662a6b9165c1cd27e87c13688d8636619fb2ea9"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-gnu-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "aarch64"
-git-tree-sha1 = "faaeeb9cdd3b71eb7c3f233f134741fc25b52d32"
+git-tree-sha1 = "7a8dd77e38a54bdff3d9aec7553a3280b4617d69"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "d2a304fe2a56be39466534f52006b0c3e55265bf66c9f8ff232431e416d36abf"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-gnu-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "aarch64"
+git-tree-sha1 = "6294ac52f2989eb867fb6f95cb117667f023cd06"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "3b7028eeedcfdcdb8edc22584aef51263c6c0d6b7419ad8d56f592972e9cef34"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "aarch64"
+git-tree-sha1 = "9a3df73ba540df24c1a5f7cfea499bb612574e26"
+julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "df031b12317fe2d6278c589a8047369c1e08046c7c4b28e0343668ab312d36b5"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "1cfaf23bc7c0b5bbc4ac0792b8fddcbbd758e042b8d020f0911071ac81a5e815"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-musl-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "aarch64"
+git-tree-sha1 = "25a04c1365797ef5b4465dae46e996385fa4106b"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "e1f4df4d0151fa10190884b322ebcf9c91368d1bd33dfb339f72812d8d049943"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-musl-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "aarch64"
+git-tree-sha1 = "3594a8ff86adbe8f000071b2a28e2684c0ee1801"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "5971f3ab40701bc2e8a340272710364c7c436ddcb90ca38f3952b698508ec445"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.aarch64-linux-musl-julia_version+1.9.0.tar.gz"
 [[Pfapack]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f01120a7978a49aacff4486a43cf8d6484d42036"
+git-tree-sha1 = "1442e9412025063effe9ed9160d7db2124a559ac"
+julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "e10d7095ced79a5169a7c009773bcf8d158b929ee8307459b1872a5730281399"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "94d89679606195a13774a38ad084cbdc60383ad7d9911eb494fb8c0b20c8eb08"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-gnueabihf-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "89281c3fdbcfc9d173e9494cc9e05d47b6fd6c51"
-libc = "musl"
-os = "linux"
-
-    [[Pfapack.download]]
-    sha256 = "e024f3a91209bd065e1e3dedafb643452430d8cc35ec32dca3b8b4b8d3ef77a2"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-musleabihf.tar.gz"
-[[Pfapack]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "c66c8ddcdcb7e8c08bfba33d1504a48e0236cd15"
+git-tree-sha1 = "fcff98ff222adaed8d00ae662ab141e3365f664d"
+julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "21c9f041e9c2b9de4ab959e283901120c86984821850bbc9b0d9d077b64b4e6e"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "3f2aa00633b0ab5b819f8f4d551622e71ab3df71a010e341c3a5a3a7342be012"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-gnueabihf-julia_version+1.8.0.tar.gz"
 [[Pfapack]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bd90542c5f090fc0aca14369fef8c466c018f83c"
-libc = "musl"
-os = "linux"
-
-    [[Pfapack.download]]
-    sha256 = "09258e93301bca1f8e6e60b6e2fae722db4b7e3ee44955ad8dffcdd7e71eb4c2"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-musleabihf.tar.gz"
-[[Pfapack]]
-arch = "i686"
-git-tree-sha1 = "0183ef900793eccb61fd8746b8831de69578d050"
+git-tree-sha1 = "caec802703cae5d295d0b97f5579862fca1a23d3"
+julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "40af9be095686d0c6295379572673ca1b403c109fddd4400eb882fb50ffe7c6e"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "ebca08440e5414ab059808e6f573d80f96e206fe4d1bc618461cfe5474de6041"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-gnueabihf-julia_version+1.9.0.tar.gz"
 [[Pfapack]]
-arch = "i686"
-git-tree-sha1 = "2a0e0c489369db049f97092f9ceff62912aa7dfc"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "599d26c803a1247ef548668ff69177a9bbd5c8d7"
+julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "92fcfe4f8fd36e141d55d77ab527d3303eca907970a076385ff86238e9a65b6d"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-musl.tar.gz"
+    sha256 = "87cdefa925fe1d987e741e1442d6a620755c194cb465678f421263ed232c665f"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-musleabihf-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "04ec27584d7248ff7fef44ea479402586ec4e03a"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "ad361f83e5f9f09e0a52fe935da6f8cbbba144a39fcf6a22892f0bef01cc55c6"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-musleabihf-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3b79b75ff779ebb588bbf1b2a799bd219c462a2b"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "b71e9e349c57d882c8a91bb42ed87e4be89b402fa3df75581d4446989f3d8956"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv6l-linux-musleabihf-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0192f15015e945b9eb464dc3d785c672ebbf0876"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "31869ad56087cea5741530c49a1658df610dfc43876448e86b3c3df57b23f441"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-gnueabihf-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a1374f06dc0e291074a76919cb0670e8ac496fb2"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "064501218463d1f8b98e6c172e7312cd0541ea0bc188b51ae2e5eec7988fab13"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-gnueabihf-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1d6092895bddb6d742dedda92796f9ee1f2ec519"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "5cd4fa04e9c03c3c9ead5bacb0a3cfb2e980719063b0b1ed8d9ac38f588d53d9"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-gnueabihf-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "854868542aa9f17a93ae27502b6b1113c921ad4b"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "5a0585fb333f49039584aa16a5a2055eb271cdb80090f5c5ff70f8f478065566"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-musleabihf-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3b3786a422f74e3352c461b6cf8dc93b2f930b4e"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "9b4d3986a4597bbf15ff80b0eee9f58146979fe4aa7980ba0db26fe48ae66681"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-musleabihf-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c728460c4fbfcd06ff565842b0388d9cba17b73c"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "a337c6f1bd545682a67a539dadbfe19f2c18332b93c50c05ee9a5e05a728669a"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.armv7l-linux-musleabihf-julia_version+1.9.0.tar.gz"
 [[Pfapack]]
 arch = "i686"
-git-tree-sha1 = "67902e0d5d5774a5a827b1f0443468452da5a202"
+git-tree-sha1 = "5598bc603ba5d08147fa18a2b335d3ac7a2b21db"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "508667f69d07976b9971d68d11c8dbe7853b88b5a677f5195400cf94e5f26066"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-gnu-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "2672b673d5c41391dc37d3bd64418bdf27339228"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "81ae626056806e9f0a0d50752a73d5c1370dcc696ecbbba15a3c5a0b63f11b1c"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-gnu-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "799bf607807eebd2f5b13111487e2a9d7c0a90b5"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "a673b43a2c075554f4d13ec343d41332e0f012b5f00632b1a08679fb5c0f8ae9"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-gnu-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "160b5fb8688aee9a5414147f7f1d2ef72141f99f"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "1b08e9e70507ebb4514a38aa5db12f2000c3a0b8cc62e5b84e20d8141658d8c7"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-musl-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "1c5c7d257ed1d2513f03531609030247788cd3de"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "afa6f786b2b56ebc5ef58512b3bba7fd0691d2ad4c766438082815ebd8231e54"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-musl-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "b54b1ea756677cce81d62746060ef8e04d7e7721"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "93116fef2b18791565f6d379fd34bda528a6bc47ab2f2268f830e5452afc6d4a"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-linux-musl-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "0f5c6a8e64701e84d20146f1e33c8aeac6b4fc08"
+julia_version = "1.7.0"
 os = "windows"
 
     [[Pfapack.download]]
-    sha256 = "bb0ec495c31892f04b6780f10d53c2514032aec52d5c1739c313a4e8ac0a63ed"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "686210daad127dc46e47fece4cc40314056b52565f8e92804bc5f6db69c9dc9b"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-w64-mingw32-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "db8fcc0fb5ea2c9ed4f6b62803bf8a2fce399816"
+julia_version = "1.8.0"
+os = "windows"
+
+    [[Pfapack.download]]
+    sha256 = "4f693c4ca658502044e48abf94c76f2412854a25215a3295941daa704560639f"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-w64-mingw32-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "i686"
+git-tree-sha1 = "6076ac019309ec589df4b1843beddba305f10267"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[Pfapack.download]]
+    sha256 = "04ca52ae72fddeb99ce063bd5a91e1529633dd9fb284cca964b819ca8f1b47f0"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.i686-w64-mingw32-julia_version+1.9.0.tar.gz"
 [[Pfapack]]
 arch = "powerpc64le"
-git-tree-sha1 = "2b1bfce9aa0818d3404c9c6f8aa3a5b6876b4dcc"
+git-tree-sha1 = "374634a3a095dc092b4039db6de505cfd0af6ac7"
+julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "610470b92732360b62566fe0d3887a1cf9a908a51239eca0a4c2c65134880f5e"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "40b16c4655e557967b2e68ec025d667be93fa98546bad0b2b5d96aac71f9af4d"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.powerpc64le-linux-gnu-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "powerpc64le"
+git-tree-sha1 = "6cfb3d4f7c83e335cd91d15ee30ea5bd98614561"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "fbbddf7c4cf24b243b2cb2c0caeeccbf5083306dce8943b97812a3509efe8e7a"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.powerpc64le-linux-gnu-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "powerpc64le"
+git-tree-sha1 = "acfa587a87b9809e12c1d0e3cb6825dc49f355f9"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "0bbcd547f00b88c600e33a1af651254a078b54ae7a58d114638eae7b8ede4576"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.powerpc64le-linux-gnu-julia_version+1.9.0.tar.gz"
 [[Pfapack]]
 arch = "x86_64"
-git-tree-sha1 = "71e03bf8efa3602f1187bc1691214fb3e78976e5"
+git-tree-sha1 = "52029ade8702ea37553f3d59278ea7be2624b5ec"
+julia_version = "1.7.0"
 os = "macos"
 
     [[Pfapack.download]]
-    sha256 = "7596c20947ac77416d1300549dc48b74eb8670350bd4cbc85e8e042370eeab4c"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "69d0d8697484161fab4e88f97fa2f1d6dfcd5c10bd8c4242592e7e6e3460a9d9"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "x86_64"
-git-tree-sha1 = "2321ad2e3cb49b8b7ce3c30d428efc7320353069"
+git-tree-sha1 = "a8cb793c083706b2f6de2153c11bcb1cb1ea4711"
+julia_version = "1.8.0"
+os = "macos"
+
+    [[Pfapack.download]]
+    sha256 = "a801630cf1edbb67327747b54bc6777ac4cfef976e202703d9c7622b43c4a36a"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "3d5161203a919553a088c0d3959f5302f95cb97b"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[Pfapack.download]]
+    sha256 = "98cb36113cf1781b47f89b2214e925d1121c888df4d47eb62b08267407b2e603"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "a9dc118a5738786a74f5b89815dcaa44324efa71"
+julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "8b00cfa92394ba707a60327492ca4a9f728c0ee9fc60eb180b1ba0f76abe268a"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "2e7877f57473eebe768201cd98e86ba0fcb7da8edf4f55a568d08771be341baf"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-gnu-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "x86_64"
-git-tree-sha1 = "d7e9b55a608757ac2b20c6b3faef679ecdafb22a"
+git-tree-sha1 = "0bbeaef9e5e0eb0b035159d1c6c4381b17500dda"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "15bbef76fe4e8de3bb7a7d7bcf7ce130bfe6f0a9f41b41d6877275dcab9a988a"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-gnu-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "58e03b38d2c3f5ae683b53dc877112d186278889"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "86f03e9612725d523ae10aa7c2e1b3ecb08223686eac9e61b88d364bb8a01ede"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "f42a5b61c5b548e7c288d9e7b2f69dfb97fa5e34"
+julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[Pfapack.download]]
-    sha256 = "1977a976381c5e5330d27c801f6420ec9e55640dcd49da5733ecd72b8e4a08cb"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "f2bbe4eef3ce95be790329a7f4b5b532e5dca4c5d52af22cfc273cca20365658"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-musl-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "x86_64"
-git-tree-sha1 = "9ca5c24fe1b8e8bad41c4c36a39ee99026ef458e"
+git-tree-sha1 = "2036b9dccb03143724e518c3de77ebe0d905204b"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "fcdab667fa24e703297269a7c17a9cf1fa18b65e1fcae01d57d544389426c221"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-musl-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "9b1d3cc466c13ab297b999f757a80d147021025b"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[Pfapack.download]]
+    sha256 = "6697dcce961bd614feebfea8e3075aefaeebedf9b64c028c8f1959da817e804a"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-linux-musl-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "558ef7b4afafb7c5797fd1de478201a860fbeba5"
+julia_version = "1.7.0"
 os = "freebsd"
 
     [[Pfapack.download]]
-    sha256 = "d42b0bf20e98e807be750a9ba87b124f0e7b2944821c55360454b27cc95e9531"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c6f9c277bdc66c363f904368654402ef0489a04646d4d74008f1942b93c305ef"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[Pfapack]]
 arch = "x86_64"
-git-tree-sha1 = "0af567a31e7502da88499db1083599c442a32311"
+git-tree-sha1 = "b787317e26d090c01ef529ea4ec1779ccd3fa9d3"
+julia_version = "1.8.0"
+os = "freebsd"
+
+    [[Pfapack.download]]
+    sha256 = "6819847be6ab7e4e0339c7ed7ae292e58bb48826a7cc15aeb7e7265d1f0f4ccf"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "6a6938734a8d32bfe4e71fe09e3dcd6643213b76"
+julia_version = "1.9.0"
+os = "freebsd"
+
+    [[Pfapack.download]]
+    sha256 = "9bc7598b0fc06f3abd381c32813f0688956bcb67a17c59f37905919402f68b94"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "30a4bcc781601c6873e8c5d719cebdd2032aa3a5"
+julia_version = "1.7.0"
 os = "windows"
 
     [[Pfapack.download]]
-    sha256 = "9aa14f2c7b615898a8883732ba3ca206b1b85415340ce67be7d8dcb848db34a3"
-    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "522ae5eaa8503690747cc795752c39b652e3654b7ebf6819f13d7269e51aae80"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-w64-mingw32-julia_version+1.7.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "8572284a34b41dddb17400a81e319fbe78c6d4ce"
+julia_version = "1.8.0"
+os = "windows"
+
+    [[Pfapack.download]]
+    sha256 = "4b8cbb3afe6689a09c14054bea09b0f146ac7c54e71ce5682625664f304c2ff4"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-w64-mingw32-julia_version+1.8.0.tar.gz"
+[[Pfapack]]
+arch = "x86_64"
+git-tree-sha1 = "c6c9c6a40ba8fa8147a0d48473f73b0ff4b14b70"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[Pfapack.download]]
+    sha256 = "07ee1e819a986f297aac7e2adda2ea1693bd803e455839ca3550b6421eac4916"
+    url = "https://github.com/JuliaBinaryWrappers/Pfapack_jll.jl/releases/download/Pfapack-v0.1.0+0/Pfapack.v0.1.0.x86_64-w64-mingw32-julia_version+1.9.0.tar.gz"
