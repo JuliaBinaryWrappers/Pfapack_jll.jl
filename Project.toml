@@ -1,6 +1,6 @@
 name = "Pfapack_jll"
 uuid = "36de11a4-635f-5b15-8378-93f477661e31"
-version = "0.1.0+1"
+version = "0.1.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
